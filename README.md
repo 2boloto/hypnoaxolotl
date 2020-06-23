@@ -51,3 +51,7 @@
 <в-водоворот-лечу-вижу> что не очень твёрдо
 
 <в-водоворот-лечу-вижу> стена, да гнилая. ткни - и развалится.
+
+----
+
+E.G. https://github.com/EGYPTPHOENICKSVALLEYOFSPHINX/NILESWAMPS
